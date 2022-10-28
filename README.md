@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B6FF&vCenter=true&width=435&lines=Computer+Science+Student+;Self-taught+Front-End+Dev;Open+Source+Enthusiast+;Aspiring+Web3+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;Self-taught+Front-end+Dev;Open+source+Enthusiast;Aspiring+Web3+Dev" alt="Typing SVG" /></a>
+
+- 🎓 **I am an undergraduate college student, pursuing Bachelors in Computer Science**
 
 - 🌱 I’m currently learning **Javascript and Typescript**
+
+- 💞️ I’m looking to collaborate **on any open source platform**
 
 - 💬 Ask me about **Relating to Front-End**
 
