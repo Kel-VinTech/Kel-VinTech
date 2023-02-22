@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mondaykelvintech@gmail.com**
 
-- 📝 I regularly write articles on **[https://hashnode.com/@Kelvineth](https://hashnode.com/@Kelvineth)**
+- 📝 I regularly write articles on **https://dev.to/kelvintech_99**
 
 - ⚡ Fun fact **I'm an Anime Lover**
 
