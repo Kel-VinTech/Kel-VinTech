@@ -4,7 +4,7 @@
 
 - 🎓 **I am an undergraduate college student, pursuing Bachelors in Computer Science**
 
-- 🌱 I’m currently learning **Javascript and ReactJS**
+- 🌱 I’m currently learning **ReactJS and Web 3.0**
 
 - 💞️ I’m looking to collaborate **on any open source platform**
 
