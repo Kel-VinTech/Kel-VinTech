@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;Self-taught+Front-end+Dev;Open+source+Enthusiast;Aspiring+Web3+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;A+Blockchain+Developer;A+SmartContract+Developer;+Web3+Developer+and+Writer;Open+source+Enthusiast" alt="Typing SVG" /></a>
 
 - 🎓 **I am an undergraduate college student, pursuing Bachelors in Computer Science**
 
-- 🌱 I’m currently learning **ReactJS and Web 3.0**
+- 🌱 I’m currently learning **ReactJS and Web 3**
 
 - 💞️ I’m looking to collaborate **on any open source platform**
 
-- 💬 Ask me about **Relating to Front-End**
+- 💬 Ask me about **Relating to Front-End and Web 3**
 
 - 📫 How to reach me **mondaykelvintech@gmail.com**
 
