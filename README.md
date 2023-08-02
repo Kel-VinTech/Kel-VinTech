@@ -4,7 +4,7 @@
 
 - 🎓 **I am an undergraduate college student, pursuing Bachelors in Computer Science**
 
-- 🌱 I’m currently learning **ReactJS and Web 3**
+- 🌱 I’m currently learning **Smart-contract Auditing**
 
 - 💞️ I’m looking to collaborate **on any open source platform**
 
