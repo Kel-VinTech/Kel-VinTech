@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;A+Blockchain+Engineer;A+SmartContract+Engineer;+Security+Researcher+and+Writer;Open+source+Enthusiast" alt="Typing SVG" /></a>
 
-- 🎓 **I am an undergraduate college student, pursuing Bachelors in Computer Science**
+- 🎓 **A Bachelors Degree in Computer Science**
 
 - 🌱 I’m currently learning **Smart-contract Auditing**
 
