@@ -4,7 +4,7 @@
 
 - 🎓 **A Bachelors Degree in Computer Science**
 
-- 🌱 I’m currently learning **PYthon**
+- 🌱 I’m currently learning **Python**
 
 - 💞️ I’m looking to collaborate **on any open source platform**
 
