@@ -4,11 +4,11 @@
 
 - 🎓 **A Bachelors Degree in Computer Science**
 
-- 🌱 I’m currently learning **Smart-contract Auditing**
+- 🌱 I’m currently learning **PYthon**
 
 - 💞️ I’m looking to collaborate **on any open source platform**
 
-- 💬 Ask me about **Relating to Front-End and Web 3**
+- 💬 Ask me about **Relating to Front-End,Python and Web 3**
 
 - 📫 How to reach me **mondaykelvintech@gmail.com**
 
