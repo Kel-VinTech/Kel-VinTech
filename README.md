@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;A+Full-stack +Developer+A+SmartContract+Developer;+Security+Researcher+and+Writer;Open+source+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1AA9F7&center=true&vCenter=true&width=435&lines=Computer+science+student+;A+Full-stack+Developer;+A+Smart-Contract+Developer;+Security+Researcher+and+Writer;Open+source+Enthusiast" alt="Typing SVG" /></a>
 
 - 🎓 **A Bachelors Degree in Computer Science**
 
